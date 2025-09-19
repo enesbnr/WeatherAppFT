@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WeatherAppFT</string>
+    <string name="select_city">HARİTA</string>
+    <string name="city_placeholder">City</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind">Wind</string>
+    <string name="permission_denied">Permission Denied</string>
+    <string name="capitalNameText">London</string>
+    <string name="clear_sky">clear sky</string>
+    <string name="few_clouds">few clouds</string>
+    <string name="scattered_clouds">scattered clouds</string>
+    <string name="rain">rain</string>
+    <string name="snow">snow</string>
+    <string name="thunderstorm">thunderstorm</string>
+    <string name="mist">mist</string>
+
+</resources>
